@@ -5,7 +5,7 @@
 * ![TS][typescript]
 * [![React][react.js]][react-url]
 * [![React Native][react-native]][react-native-url]
-
+* [![Next.js][next.js]][next-js-url]
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 
@@ -15,3 +15,5 @@
 [react-url]: https://reactjs.org/
 [react-native]: https://img.shields.io/badge/React%20Native-61DAFB?style=for-the-badge&logo=React&logoColor=090000
 [react-native-url]: https://reactnative.dev/
+[next.js]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
+[next-js-url]: https://nextjs.org/
